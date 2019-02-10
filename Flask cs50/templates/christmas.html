@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <title>isitchristmas.com</title>
+    <style>
+        body{
+            background-color: crimson;
+        }
+        #no{
+            display: inline-block;
+            margin: 15% 15%;
+            font-weight: bold;
+            font-size: 120pt;
+            font-family: Arial, sans-serif;
+            text-decoration: none;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <div style="text-align: center">
+        {% if christmas %}
+             <h1>YES! MERRY CHRISTMAS 🎄</h1>
+        {% else %}
+             <h1 id="no">NO!🎄</h1>
+        {% endif %}
+    </div>
+</body>
+</html>

@@ -1,0 +1,548 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/lesson3/task7/len_function.py" line="0" mnemonic="9" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="469849bf-81d0-4ca6-8028-ba03a87a61ff" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="access_variable.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lesson8/task2/access_variable.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="list_items.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lesson4/task3/list_items.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="test_helper" />
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/lesson2/task3/variable_type.py" />
+        <option value="$PROJECT_DIR$/lesson2/task4/type_cast.py" />
+        <option value="$PROJECT_DIR$/lesson2/task7/boolean_operators.py" />
+        <option value="$PROJECT_DIR$/lesson3/task2/string_multiplication.py" />
+        <option value="$PROJECT_DIR$/lesson2/task1/variable_definition.py" />
+        <option value="$PROJECT_DIR$/lesson2/task6/assignments.py" />
+        <option value="$PROJECT_DIR$/lesson2/task8/comparison_operators.py" />
+        <option value="$PROJECT_DIR$/lesson3/task3/string_indexing.py" />
+        <option value="$PROJECT_DIR$/lesson3/task4/negative_indexing.py" />
+        <option value="$PROJECT_DIR$/lesson3/task5/slicing.py" />
+        <option value="$PROJECT_DIR$/lesson3/task10/string_formatting.py" />
+        <option value="$PROJECT_DIR$/lesson2/task2/undefined_variable.py" />
+        <option value="$PROJECT_DIR$/lesson2/task5/arithmetic_operators.py" />
+        <option value="$PROJECT_DIR$/lesson3/task1/concatenation.py" />
+        <option value="$PROJECT_DIR$/lesson3/task6/in_operator.py" />
+        <option value="$PROJECT_DIR$/lesson3/task7/len_function.py" />
+        <option value="$PROJECT_DIR$/lesson3/task8/character_escaping.py" />
+        <option value="$PROJECT_DIR$/lesson3/task9/string_methods.py" />
+        <option value="$PROJECT_DIR$/lesson4/task1/lists.py" />
+        <option value="$PROJECT_DIR$/lesson4/task2/list_operations.py" />
+        <option value="$PROJECT_DIR$/lesson4/task3/list_items.py" />
+        <option value="$PROJECT_DIR$/lesson4/task4/tuples.py" />
+        <option value="$PROJECT_DIR$/lesson4/task5/dicts.py" />
+        <option value="$PROJECT_DIR$/lesson4/task6/dict_key_value.py" />
+        <option value="$PROJECT_DIR$/lesson4/task7/in_keyword.py" />
+        <option value="$PROJECT_DIR$/lesson5/task1/boolean_operators.py" />
+        <option value="$PROJECT_DIR$/lesson5/task2/boolean_order.py" />
+        <option value="$PROJECT_DIR$/lesson5/task3/if_statement.py" />
+        <option value="$PROJECT_DIR$/lesson5/task4/else_elif.py" />
+        <option value="$PROJECT_DIR$/lesson6/task1/for_loop.py" />
+        <option value="$PROJECT_DIR$/lesson6/task2/for_string.py" />
+        <option value="$PROJECT_DIR$/lesson6/task3/while_loop.py" />
+        <option value="$PROJECT_DIR$/lesson6/task4/break_keyword.py" />
+        <option value="$PROJECT_DIR$/lesson6/task5/continue_keyword.py" />
+        <option value="$PROJECT_DIR$/lesson7/task1/functions.py" />
+        <option value="$PROJECT_DIR$/lesson7/task2/param_args.py" />
+        <option value="$PROJECT_DIR$/lesson7/task3/return_keyword.py" />
+        <option value="$PROJECT_DIR$/lesson7/task4/default_parameter.py" />
+        <option value="$PROJECT_DIR$/lesson8/task1/class_definition.py" />
+        <option value="$PROJECT_DIR$/lesson8/task2/access_variable.py" />
+        <option value="$PROJECT_DIR$/lesson8/task3/access_variable.py" />
+        <option value="$PROJECT_DIR$/lesson8/task5/jj.ipynb" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+        <option value="$PROJECT_DIR$/lesson10/task1/read_file.py" />
+        <option value="$PROJECT_DIR$/lesson10/task2/write_to_file.py" />
+        <option value="$PROJECT_DIR$/lesson10/task2/output.txt" />
+        <option value="$PROJECT_DIR$/lesson9/task1/imports.py" />
+        <option value="$PROJECT_DIR$/lesson8/task4/self_parameter.py" />
+        <option value="$PROJECT_DIR$/lesson8/task5/init_method.py" />
+        <option value="$PROJECT_DIR$/lesson9/task1/calculator.py" />
+        <option value="$PROJECT_DIR$/lesson9/task2/builtin_modules.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Course">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Introduction_to_Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Introduction_to_Python" type="ed842865:CourseNode" />
+            </path>
+            <path>
+              <item name="Introduction_to_Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Introduction_to_Python" type="ed842865:CourseNode" />
+              <item name="lesson8" type="d53b8fed:LessonNode" />
+            </path>
+            <path>
+              <item name="Introduction_to_Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Introduction_to_Python" type="ed842865:CourseNode" />
+              <item name="lesson8" type="d53b8fed:LessonNode" />
+              <item name="task2" type="4928525d:TaskNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Introduction_to_Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Introduction_to_Python" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Introduction_to_Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Introduction_to_Python" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Introduction_to_Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Introduction_to_Python" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson4" type="462c0819:PsiDirectoryNode" />
+              <item name="task3" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="Python" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.in_keyword">
+    <configuration name="access_variable" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Introduction_to_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson8/task2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson8/task2/access_variable.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="builtin_modules" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Introduction_to_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson9/task2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson9/task2/builtin_modules.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="dict_key_value" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Introduction_to_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson4/task6" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson4/task6/dict_key_value.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="in_keyword" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Introduction_to_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson4/task7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson4/task7/in_keyword.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="init_method" type="PythonConfigurationType" factoryName="Python">
+      <module name="Introduction_to_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson8/task5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson8/task5/init_method.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="self_parameter" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Introduction_to_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson8/task4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson8/task4/self_parameter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.init_method" />
+      <item itemvalue="Python.access_variable" />
+      <item itemvalue="Python.self_parameter" />
+      <item itemvalue="Python.builtin_modules" />
+      <item itemvalue="Python.dict_key_value" />
+      <item itemvalue="Python.in_keyword" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.in_keyword" />
+        <item itemvalue="Python.dict_key_value" />
+        <item itemvalue="Python.builtin_modules" />
+        <item itemvalue="Python.self_parameter" />
+        <item itemvalue="Python.access_variable" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="469849bf-81d0-4ca6-8028-ba03a87a61ff" name="Default" comment="" />
+      <created>1519536512301</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1519536512301</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18675596" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="8" weight="0.3286385" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3286385" />
+      <window_info anchor="right" id="Data View" order="3" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" id="Task Description" order="6" visible="true" weight="0.20347957" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" id="SciView" order="5" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="11" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/lesson8/task2/access_variable.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson4/task2/list_operations.py">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <caret line="9" selection-start-line="9" selection-end-line="9" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson4/task2/list_operations.py">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <caret line="9" selection-start-line="9" selection-end-line="9" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson2/task5/arithmetic_operators.py" />
+    <entry file="file://$PROJECT_DIR$/lesson2/task6/assignments.py" />
+    <entry file="file://$PROJECT_DIR$/lesson2/task7/boolean_operators.py" />
+    <entry file="file://$PROJECT_DIR$/lesson2/task8/comparison_operators.py" />
+    <entry file="file://$PROJECT_DIR$/lesson3/task1/concatenation.py" />
+    <entry file="file://$PROJECT_DIR$/lesson3/task3/string_indexing.py" />
+    <entry file="file://$PROJECT_DIR$/lesson3/task4/negative_indexing.py" />
+    <entry file="file://$PROJECT_DIR$/lesson3/task5/slicing.py" />
+    <entry file="file://$PROJECT_DIR$/lesson3/task6/in_operator.py" />
+    <entry file="file://$PROJECT_DIR$/lesson3/task7/len_function.py" />
+    <entry file="file://$PROJECT_DIR$/lesson3/task8/character_escaping.py" />
+    <entry file="file://$PROJECT_DIR$/lesson3/task9/string_methods.py" />
+    <entry file="file://$PROJECT_DIR$/lesson3/task10/string_formatting.py" />
+    <entry file="file://$PROJECT_DIR$/lesson5/task1/boolean_operators.py" />
+    <entry file="file://$PROJECT_DIR$/lesson5/task3/if_statement.py" />
+    <entry file="file://$PROJECT_DIR$/lesson5/task4/else_elif.py" />
+    <entry file="file://$PROJECT_DIR$/lesson6/task1/for_loop.py" />
+    <entry file="file://$PROJECT_DIR$/lesson6/task2/for_string.py" />
+    <entry file="file://$PROJECT_DIR$/lesson6/task3/while_loop.py" />
+    <entry file="file://$PROJECT_DIR$/lesson6/task4/break_keyword.py" />
+    <entry file="file://$PROJECT_DIR$/lesson6/task5/continue_keyword.py" />
+    <entry file="file://$PROJECT_DIR$/lesson7/task1/functions.py" />
+    <entry file="file://$PROJECT_DIR$/lesson7/task2/param_args.py" />
+    <entry file="file://$PROJECT_DIR$/lesson7/task3/return_keyword.py" />
+    <entry file="file://$PROJECT_DIR$/lesson7/task4/default_parameter.py" />
+    <entry file="file://$PROJECT_DIR$/lesson8/task5/jj.ipynb" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+    <entry file="file://$PROJECT_DIR$/lesson10/task1/input.txt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <caret column="62" lean-forward="true" selection-start-column="62" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson10/task2/output.txt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="17">
+          <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson10/task1/read_file.py">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="68">
+          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson10/task2/write_to_file.py">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="51">
+          <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson8/task1/class_definition.py">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="17">
+          <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson9/task1/calculator.py">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="272">
+          <caret line="16" column="15" lean-forward="true" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson9/task1/imports.py">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson9/task2/builtin_modules.py">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="34">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson9/task3/from_import.py">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson3/task2/string_multiplication.py">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="17">
+          <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson4/task4/tuples.py">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson4/task5/dicts.py">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson4/task6/dict_key_value.py">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="153">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson4/task7/in_keyword.py">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="102">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson4/task1/lists.py">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="51">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson4/task2/list_operations.py">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson8/task5/init_method.py">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="340">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson8/task4/self_parameter.py">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="153">
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson8/task3/access_variable.py">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="119">
+          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson8/task2/access_variable.py">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="StudyEditor">
+        <state relative-caret-position="323">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson4/task3/list_items.py">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="StudyEditor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

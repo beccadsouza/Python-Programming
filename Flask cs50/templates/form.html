@@ -1,0 +1,13 @@
+{% extends "layout.html" %}
+{% block title %}
+    <title>Web in Python and JS</title>
+{% endblock %}
+{% block heading %}
+    First Page
+{% endblock %}
+{% block body %}
+    <form action="{{ url_for("welcome") }}" method="post">
+        <input type="text" name="input1" placeholder="enter your name">
+        <button>Submit</button>
+    </form>
+{% endblock %}

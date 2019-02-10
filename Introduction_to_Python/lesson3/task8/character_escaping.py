@@ -1,0 +1,1 @@
+print('"Sweet\'n\'Tasty"')

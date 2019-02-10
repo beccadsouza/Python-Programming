@@ -1,0 +1,6 @@
+fw = open(r"C:\Users\Dell\PycharmProjects\Tutorials\data.csv", 'r')
+text = fw.read()
+fw.close()
+lines = str(text).split("\n")
+words = lines[0].split(",")
+print(words)

@@ -1,0 +1,67 @@
+"""
+
+5 3
+4 3
+5 5
+4 2
+2 3
+
+"""
+
+# print(r_nmax,c_nmax)
+# print(r_pmin,c_pmin)
+# print(r_pmax,c_pmax)
+# print(r_nmin,c_nmin)
+
+# n,k = map(int,input().split())
+# rq,cq = map(int,input().split())
+#
+#
+# obstacles_q = []
+# poss_attacks = []
+# squares = [(x,y) for x in range(1,n+1) for y in range(1,n+1)]
+# obstacles = [tuple(int(x) for x in input().split()) for x in range(k)]
+#
+#
+# for sqr in squares:
+#     if sqr[0] == rq or sqr[1] == cq or abs(rq-sqr[0]) == abs(cq-sqr[1]):
+#         poss_attacks.append(sqr)
+#
+# for obs in obstacles:
+#     if obs[0] == rq or obs[1] == cq or abs(rq-obs[0]) == abs(cq-obs[1]):
+#         obstacles_q.append(obs)
+#
+# poss_attacks.remove((rq,cq))
+# print(poss_attacks)
+# print(obstacles_q)
+# print(list((rq,cq)))
+#
+# # pos = [(1, 3), (2, 1), (2, 3), (2, 5), (3, 2), (3, 3), (3, 4), (4, 1), (4, 2),
+# # (4, 4), (4, 5), (5, 2), (5, 3), (5, 4)]
+# # ob = [(4, 2), (2, 3)]
+# # queen = [(4, 3)]
+
+
+
+@functools.lru_cache(2000)
+
+
+8
+GAAATAAA
+2 6
+2 0
+2 1
+2 1
+{'A': 4}
+4
+GAAA 4 3 1
+AAAT 4 3 1
+AATA 4 3 1
+ATAA 4 3 1
+TAAA 4 3 1
+GAAAT 4 3 1
+AAATA 4 4 0
+5
+
+Process finished with exit code 0
+
